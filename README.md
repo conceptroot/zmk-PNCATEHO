@@ -1,3 +1,5 @@
+25 апреля 2026г. - first commit
+
 # ZMK PNCATEHO Layout Firmware
 
 Use branches to select a keyboard.
